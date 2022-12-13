@@ -9,3 +9,5 @@ Harina
 Aceite
 Vinagre
 Carne
+Papas Pay
+Salchicha
